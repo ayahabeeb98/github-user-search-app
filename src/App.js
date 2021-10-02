@@ -22,7 +22,6 @@ function App() {
     function fetchUserData(username) {
         axios.get(  `https://api.github.com/users/${username}`)
             .then((res) => {
-                console.log(res)
                 setLoading(false)
                 setError(false)
                 setUser(res.data)

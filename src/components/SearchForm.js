@@ -9,7 +9,6 @@ export default function SearchForm({handleSearch, hasError, hasLoading}) {
         handleSearch(username)
     }
 
-    console.log(hasError)
     return (
         <form className="container formWrapper" onSubmit={handleSubmit}>
             <input type="text" placeholder="Search GitHub username…" value={username}

@@ -12,7 +12,7 @@ the [GitHub user search app challenge on Frontend Mentor](https://www.frontendme
 - [My process](#my-process)
     - [Built with](#built-with)
     - [Continued development](#continued-development)
-- [Available Scripts](#Available Scripts)
+- [Available Scripts](#available-scripts)
 - [Author](#author)
 
 
@@ -47,7 +47,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/ayahabeeb98/github-user-search-app)
-- Live Site URL: [ live site URL ]()
+- Live Site URL: [ live site URL ](https://github-user-search-app-nine.vercel.app/)
 
 ## My process
 
